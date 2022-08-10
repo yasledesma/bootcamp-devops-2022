@@ -15,7 +15,7 @@
 
 ![reto1-2](https://i.imgur.com/p2tqNVs.png)
 
-3. Pantallazo donde se vean las imágenes que tienes en tu registro local. (Idem punto 1c)
+3. Pantallazo donde se vean las imágenes que tienes en tu registro local. **(Idem punto 1c)**
 
 4. Pantallazo donde se vea cómo se elimina el contenedor (recuerda que antes debe estar parado el contenedor).
 
